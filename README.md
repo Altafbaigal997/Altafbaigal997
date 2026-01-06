@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<! 💫 About Me:
 Hi, I am Altaf Hussain, an AI engineer passionate about computer vision, LLMs, and applied ML research. I build, experiment, and deploy models using PyTorch, FastAPI, and modern AI stacks. This GitHub is a mix of research ideas, production-style systems, and hands-on projects.
 
 
